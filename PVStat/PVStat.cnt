@@ -1,0 +1,26 @@
+:Base PVStat.HLP>main
+:Title PVStat Help
+1 Introduzione
+2 Introduzione=Introduzione@PVStat.HLP>main
+2 Il file di log=Il_file_di_log@PVStat.HLP>main
+2 Start PVStat=HIDR_MAINFRAME
+2 File componenti l'applicazione=File_componenti_l_applicazione@PVStat.HLP>main
+1 Finestra principale
+2 Finestra principale=HIDR_PVSTATTYPE
+2 Tipo Macchina=Tipo_Macchina@PVStat.HLP>main
+2 Stampa=Stampa@PVStat.HLP>main
+2 Ordinamento lista=Ordinamento_lista@PVStatHLP>main
+1 Elenco Allarmi
+2 Elenco Allarmi=Elenco_Allarmi@PVStat.HLP>main
+2 Dettaglio Allarme=HIDD_DETAILS
+1 Filtri
+2 Filtri=HIDD_DIALOGFILTRI
+2 Filtro per codice allarme=Filtro_per_codice_allarme@PVStat.HLP>main
+2 Filtro per giorni=Filtro_per_giorni@PVStat.HLP>main
+2 Filtro orario=Filtro_orario@PVStat.HLP>main
+1 Statistiche generali
+2 Statistiche generali=HIDD_DIALOSTATISTICHE
+1 Esporta
+2 Esporta file=HID_FILE_EXPORT@PVStat.HLP>main
+1 Informazioni
+2 Informazioni file=HIDD_DIALOGINFO
